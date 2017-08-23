@@ -477,7 +477,6 @@ max-width: 100%;
 .testimonial-area {
 padding: 0 0 0 0;
 margin:0;
-background: url(../img/low-poly01.jpg) fixed center center;
 background-size: cover;
 -webkit-background-size: cover;
 -moz-background-size: cover;
@@ -776,7 +775,6 @@ form#commentform textarea {
 }
 
 #call-to-action {
-    background: url(../images/bg/about.jpg) no-repeat;
     background-attachment: fixed;
     background-position: top center;
     padding: 100px 0;

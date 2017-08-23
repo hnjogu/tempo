@@ -38,13 +38,14 @@
 							<div class="col-md-4">
 								<!-- Heading and para -->
 								<div class="block-heading-two">
-									<h3><span>Programes</span></h3>
+									<h3><span>Programmes</span></h3>
 								</div>
 								<p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur. <br><br>Sed ut perspiciaatis iste natus error sit voluptatem probably haven't heard of them accusamus.</p>
 							</div>
 							<div class="col-md-4">
 								<div class="block-heading-two">
-									<h3><span>Latest Jobs</span></h3>
+									<h3><span>Latest Jobs.</span></h3>
+									<h4>Download the Requirement</h4>
 								</div>		
 								<!-- Accordion starts -->
 								<div class="panel-group" id="accordion-alt3">
